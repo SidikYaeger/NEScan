@@ -1,5 +1,5 @@
 # NEScan
-
+.
 <div align="center">
   <img src="https://github.com/awiones/NEScan/blob/main/assets/img/logo1.jpg" alt="NEScan Banner" width="400px">
 </div>
